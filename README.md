@@ -13,7 +13,7 @@
 💬 &nbsp;Please do not hesitate to contact me for any questions regarding this web world that we are passionate about.\
 ✉️ &nbsp;You can contact me through social media. I will try to respond as soon as possible.\
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" with="200px" align="right">
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px align="right">
 
 ### 🛠 &nbsp;Tech Stack
 
