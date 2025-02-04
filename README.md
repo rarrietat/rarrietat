@@ -38,7 +38,7 @@
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rarrietat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=rarrietat&theme=dark&show_icons=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=rarrietat&layout=compact&theme=dark&show_icons=true&count_private=true"/>
 </a>
 </p>
 
